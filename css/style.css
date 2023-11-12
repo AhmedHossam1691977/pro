@@ -38,7 +38,12 @@ h6 {
     outline: none !important;
 }
 
+
 /* nav */
+.navbar{
+    display: none;
+    background-color: #00000067;
+}
 .navbar-nav li .active::after {
     content: "";
     width: 45px;
